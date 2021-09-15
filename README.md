@@ -59,15 +59,15 @@ My name is Andrew Martin (@andrewmartin5), and I am a freshman studying Computer
 I like a wide variety of music, so here's some that I've been loving recently:
 
 <p align="center">
-	<a href="https://music.youtube.com/watch?v=zai0FlRDXmM&feature=share"><img src="https://lh3.googleusercontent.com/cnRKvRzAGW65FK6M5c1gpgXV8mXXd0Gf3WaZ2oI1vzTHe9giBUV3daI5ci_OuDoMUGsWD6MfRCxnZhty=w544-h544-l90-rj" width = 300 title = "East Bound and Down"/></a>
-    <a href="https://music.youtube.com/watch?v=pS5d77DQHOI&feature=share"><img src="https://lh3.googleusercontent.com/DX5Cdm8x5F1bKLmJnUdPwD9SyyMJa08nK7GMhiBoHxon-Jb7vSQbJ3_RAxBAMwUMArmy0WNgVXE45eNtQQ=w544-h544-l90-rj" width = 300 title = "Tokyo Drift"/></a>
-    <a href="https://music.youtube.com/watch?v=Z86EDJbm5CU&feature=share"><img src="https://lh3.googleusercontent.com/HrhJuP3qxxZgTwTf69FyQEZvBx61ytkCst8d0aYl3LDQr6aEB7yrX6cwlYlHynZbZVvy1gQNzzAxZRZF=w544-h544-l90-rj" width = 300 title = "It's Been a While"/></a>
-    <a href="https://music.youtube.com/watch?v=tuw1ziytBDk&feature=share"><img src="https://lh3.googleusercontent.com/WsRIZJVl9nRDYmnd2Pxjq3dZYkcF1QrZCWjcD74EZprugcMqDN_UhZ4YsbKjJ37XnxvHAE10Khv3jXEqmw=w544-h544-l90-rj" width = 300 title = "Schism"/></a>
-    <a href="https://music.youtube.com/watch?v=2mCkuycJjJs&feature=share"><img src="https://lh3.googleusercontent.com/S9gRuNT9MbuWoHFWVjz8ile4JBQQDqTvEA-LRAQ5YyNI7FHtERuGg-v7kofruYYsBWb8ljF8Bo27fyFP=w544-h544-l90-rj" width = 300 title = "If You're Gone"/></a>
-    <a href="https://music.youtube.com/watch?v=B0VNkQR1wGU&feature=share"><img src="https://lh3.googleusercontent.com/3Zzqqn7oXlrwv0_ao7O4aTECXvQwZ6_mxmz_PXEsYOQV2Zbj3in6H1q6wvrKPvQQ2K-jfrkcQkk7MNc=w544-h544-l90-rj" width = 300 title = "Everybody Talks"/></a>
-    <a href="https://music.youtube.com/watch?v=e4UKtfiX_wM&feature=share"><img src="https://lh3.googleusercontent.com/ftHghtoB449MXyG4NP3YBPvMwBwc9xVdxwq34fq6i1QTONuBZm4tAQY9pKkUMhes6gDT4xE2dAmDxFKb=w544-h544-l90-rj" width = 300 title = "Monsters"/></a>
-    <a href="https://music.youtube.com/watch?v=ignvw4zpCAg&feature=share"><img src="https://lh3.googleusercontent.com/DYDsqTrrXrb5yrwhBLWqf_iC18nCD3uskeqe5sTSNAFzkBeyC_L9HHEjsZC9fTdF3EZX1Me4HxpYXdQq=w544-h544-l90-rj" width = 300 title = "I Am the Antichrist to You"/></a>
-    <a href="https://music.youtube.com/watch?v=gFwuHsra6Oc&feature=share"><img src="https://lh3.googleusercontent.com/muXBNeYvwzOtZ9q6U2cjK1sFvmlscHebTnFnB93x-Yuyv1pNRgmqcSMMHO7elu6vHPCMs3lY1uNMvB37nw=w544-h544-l90-rj" width = 300 title = "Theme from New York, New York"/></a>
+	<a href="https://music.youtube.com/watch?v=zai0FlRDXmM&feature=share"><img src="https://lh3.googleusercontent.com/cnRKvRzAGW65FK6M5c1gpgXV8mXXd0Gf3WaZ2oI1vzTHe9giBUV3daI5ci_OuDoMUGsWD6MfRCxnZhty=w544-h544-l90-rj" width = 250 title = "East Bound and Down"/></a>
+    <a href="https://music.youtube.com/watch?v=pS5d77DQHOI&feature=share"><img src="https://lh3.googleusercontent.com/DX5Cdm8x5F1bKLmJnUdPwD9SyyMJa08nK7GMhiBoHxon-Jb7vSQbJ3_RAxBAMwUMArmy0WNgVXE45eNtQQ=w544-h544-l90-rj" width = 250 title = "Tokyo Drift"/></a>
+    <a href="https://music.youtube.com/watch?v=Z86EDJbm5CU&feature=share"><img src="https://lh3.googleusercontent.com/HrhJuP3qxxZgTwTf69FyQEZvBx61ytkCst8d0aYl3LDQr6aEB7yrX6cwlYlHynZbZVvy1gQNzzAxZRZF=w544-h544-l90-rj" width = 250 title = "It's Been a While"/></a>
+    <a href="https://music.youtube.com/watch?v=tuw1ziytBDk&feature=share"><img src="https://lh3.googleusercontent.com/WsRIZJVl9nRDYmnd2Pxjq3dZYkcF1QrZCWjcD74EZprugcMqDN_UhZ4YsbKjJ37XnxvHAE10Khv3jXEqmw=w544-h544-l90-rj" width = 250 title = "Schism"/></a>
+    <a href="https://music.youtube.com/watch?v=2mCkuycJjJs&feature=share"><img src="https://lh3.googleusercontent.com/S9gRuNT9MbuWoHFWVjz8ile4JBQQDqTvEA-LRAQ5YyNI7FHtERuGg-v7kofruYYsBWb8ljF8Bo27fyFP=w544-h544-l90-rj" width = 250 title = "If You're Gone"/></a>
+    <a href="https://music.youtube.com/watch?v=B0VNkQR1wGU&feature=share"><img src="https://lh3.googleusercontent.com/3Zzqqn7oXlrwv0_ao7O4aTECXvQwZ6_mxmz_PXEsYOQV2Zbj3in6H1q6wvrKPvQQ2K-jfrkcQkk7MNc=w544-h544-l90-rj" width = 250 title = "Everybody Talks"/></a>
+    <a href="https://music.youtube.com/watch?v=e4UKtfiX_wM&feature=share"><img src="https://lh3.googleusercontent.com/ftHghtoB449MXyG4NP3YBPvMwBwc9xVdxwq34fq6i1QTONuBZm4tAQY9pKkUMhes6gDT4xE2dAmDxFKb=w544-h544-l90-rj" width = 250 title = "Monsters"/></a>
+    <a href="https://music.youtube.com/watch?v=ignvw4zpCAg&feature=share"><img src="https://lh3.googleusercontent.com/DYDsqTrrXrb5yrwhBLWqf_iC18nCD3uskeqe5sTSNAFzkBeyC_L9HHEjsZC9fTdF3EZX1Me4HxpYXdQq=w544-h544-l90-rj" width = 250 title = "I Am the Antichrist to You"/></a>
+    <a href="https://music.youtube.com/watch?v=gFwuHsra6Oc&feature=share"><img src="https://lh3.googleusercontent.com/muXBNeYvwzOtZ9q6U2cjK1sFvmlscHebTnFnB93x-Yuyv1pNRgmqcSMMHO7elu6vHPCMs3lY1uNMvB37nw=w544-h544-l90-rj" width = 250 title = "Theme from New York, New York"/></a>
 </p>
 
 # :chart_with_upwards_trend: GitHub Stats
