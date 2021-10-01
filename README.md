@@ -37,6 +37,8 @@ My name is Andrew Martin (@andrewmartin5), and I am a freshman studying Computer
 * Linux
 * Markdown
 * HTTP
+* Kotlin
+* Android Studio
 
 # :wrench: A Few Tools I Use:
 
