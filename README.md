@@ -1,6 +1,6 @@
 # :wave: Hi Everyone!
 
-My name is Andrew Martin (@andrewmartin5), and I am a freshman studying Computer Science at the University of New Hampshire. You can find me here:
+My name is Andrew Martin (@andrewmartin5), and I am a sophomore studying Computer Science at the University of New Hampshire. You can find me here:
 
 <a href="mailto:andrewmlefty5@gmail.com"><img src="https://img.shields.io/badge/Email-andrewmlefty5@gmail.com-informational?style=flat&logo=mail.ru&logoColor=1DA1F2&color=blue"/></a>
 
