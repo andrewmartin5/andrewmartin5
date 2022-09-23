@@ -25,7 +25,7 @@ My name is Andrew Martin (@andrewmartin5), and I am a freshman studying Computer
 * :guitar: Playing Music - I play Clarinet, Guitar, and a bit of Piano!
 * :desktop_computer: Building PCs - Right now, I am running (With links to PCPartPicker):
   * Motherboard: [Gigabyte B550 Gaming X](https://pcpartpicker.com/product/R6VG3C/gigabyte-b550-gaming-x-atx-am4-motherboard-b550-gaming-x)
-  * CPU: [AMD Ryzen 5 5600x](https://pcpartpicker.com/product/g94BD3/amd-ryzen-5-5600x-37-ghz-6-core-processor-100-100000065box)
+  * CPU: [AMD Ryzen 7 5800x3d](https://pcpartpicker.com/product/CZ3gXL/amd-ryzen-7-5800x3d-34-ghz-8-core-processor-100-100000651wof)
   * RAM: [4 x 8 GB Crucial Ballistix (3600 MHz)](https://pcpartpicker.com/product/fDn8TW/crucial-ballistix-16-gb-2-x-8-gb-ddr4-3600-memory-bl2k8g36c16u4r)
   * GPU: [MSI GeForce RTX 3070 VENTUS 3X (8 GB)](https://pcpartpicker.com/product/rjrYcf/msi-geforce-rtx-3070-8-gb-ventus-3x-video-card-rtx-3070-ventus-3x)
   * Storage: [Crucial P1 1 TB M.2-2280](https://pcpartpicker.com/product/pxKcCJ/crucial-p1-1tb-m2-2280-solid-state-drive-ct1000p1ssd8)
